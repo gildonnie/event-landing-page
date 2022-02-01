@@ -1,0 +1,9 @@
+#jumbotron {
+    background-image: url(/IMG/mountains-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(236,241,245);
+    
+}
+
