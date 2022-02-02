@@ -1,0 +1,15 @@
+#jumbotron {
+    background-image: url(/IMG/mountains-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(236,241,245);
+    
+}
+
+hr.line {
+    border-top: 2px solid #d4d9dd;
+  
+
+}
+
